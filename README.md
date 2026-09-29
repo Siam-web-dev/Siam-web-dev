@@ -1,4 +1,7 @@
-# Hi, I'm Siam 👋
+<p align="center">
+  <img src="./Grey and Black Simple Marketing LinkedIn Banner_20260928_234039_0000.png" width="100%" alt="Kamruzzaman Siam">
+</p>
+<h1>Hi, I'm Siam </h1>
 
 ### 💻 Diploma in Computer Science & Technology | Aspiring Full-Stack Developer
 
